@@ -1,6 +1,6 @@
 
 TinDog
-Live Project --  https://exquisite-snickerdoodle-815623.netlify.app --
+Live Project --  https://exquisite-snickerdoodle-815623.netlify.app  --
 TinDog is my very first Bootstrap website, built entirely by hand with zero AI assistance.
 I wanted to practice and solidify everything I learned about HTML, CSS, and the Bootstrap framework. Instead of relying on AI tools or just watching tutorials, I wrote every line of code myself to truly understand how grid systems, components, and responsive design work in the real world.
 
