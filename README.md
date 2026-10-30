@@ -12,6 +12,7 @@ I wanted to practice and solidify everything I learned about HTML, CSS, and the 
 • Modern Components: Features a clean navigation bar, pricing cards, a testimonial carousel, and call-to-action buttons.
 • Clean Layout: Combines custom CSS with Bootstrap utility classes for a polished look.
 
+/
 🛠️ Tech Stack
 • HTML5: Semantic page structure.
 • CSS3: Custom styling, colors, and layout tweaks.
