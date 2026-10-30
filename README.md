@@ -1,4 +1,3 @@
-
 TinDog
 
 Live Project --  https://exquisite-snickerdoodle-815623.netlify.app  --
