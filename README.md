@@ -19,3 +19,4 @@ I wanted to practice and solidify everything I learned about HTML, CSS, and the 
 • How to use Bootstrap containers, rows, and columns to make elements align properly.
 • The right way to override framework styles with custom CSS when needed.
 • How to build a mobile-first design that looks great on any screen size.
+
