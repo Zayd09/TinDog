@@ -18,6 +18,7 @@ I wanted to practice and solidify everything I learned about HTML, CSS, and the 
 • CSS3: Custom styling, colors, and layout tweaks.
 • Bootstrap: Layout grid, navigation, buttons, and responsive utilities.
 
+/
 💡 What I Learned
 • How to use Bootstrap containers, rows, and columns to make elements align properly.
 • The right way to override framework styles with custom CSS when needed.
